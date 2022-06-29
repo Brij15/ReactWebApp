@@ -1,0 +1,38 @@
+.contact-info {
+    font-size: large;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.profile-img {
+    padding: 0.2rem;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 65%;
+    height: auto;
+    float: right;
+}
+
+.tablefont {
+    color: white !important;
+}
+
+.card {  
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+  }
+  
+  /* Add rounded corners to the top left and the top right corner of the image */
+  .img {
+    border-radius: 5px 5px 0 0;
+  }
+  .text-muted{
+    color:grey;
+  }
+
+  .card-img-top {
+      height: 250px !important;
+  }
